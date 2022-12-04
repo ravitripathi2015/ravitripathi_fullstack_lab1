@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author tripa
+ *
+ */
+module EmpOnboardingEmailApplication {
+}
